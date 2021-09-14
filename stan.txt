@@ -1,1 +1,2 @@
 hello from stan
+goodbye from stan
